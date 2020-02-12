@@ -10,16 +10,12 @@
 - [x] C
 ---
 
-```python=
-def gcd(m, n):
-    if n == 0:
-        return m
-    else:
-        return gcd(n, m % n)
-
-print(gcd(20, 30))
+```javascript {.line-numbers}
+function add(x, y) {
+  return x + y;
+}
 ```
 
-[code](https://i.imgur.com/tvby9mm.png):
+[code](https://i.imgur.com/dXaUqtL.png):
 
-![alt text](https://i.imgur.com/tvby9mm.png)
+![alt text](https://i.imgur.com/dXaUqtL.png)

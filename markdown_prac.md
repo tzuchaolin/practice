@@ -10,7 +10,7 @@
 - [x] C
 ---
 
-```javascript {.line-numbers}
+```javascript=
 function add(x, y) {
   return x + y;
 }
